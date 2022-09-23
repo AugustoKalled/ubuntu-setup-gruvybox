@@ -1,4 +1,4 @@
-# ubuntu-setup-with-I3
+# ubuntu-setup-with-gruvybox
 This is my Ubuntu 22.04 setup basic iwith gruvybox
 
 ![screenshot](screenshots/dirty.png)
