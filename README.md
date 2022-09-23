@@ -1,5 +1,5 @@
 # ubuntu-setup-with-I3
-This is my Ubuntu 22.04 setup with i3-wm and guvbox
+This is my Ubuntu 22.04 setup basic iwith gruvybox
 
 ![screenshot](screenshots/dirty.png)
 
@@ -7,7 +7,7 @@ This is my Ubuntu 22.04 setup with i3-wm and guvbox
 
 A collection of my configuration and other dotfiles.
 
-* Ubuntu 22.04 minimal + i3-wm
+* Ubuntu 22.04 minimal
 
 ## Start theme configurate
 
@@ -28,17 +28,3 @@ Create a folder ".icons" in your home and extract this file there
 [Gruvbox icon theme](https://www.gnome-look.org/p/1327720/)
 
 go to tweaks -> appearance and set gruvybox-Dark-BL to "applications" and gruvybox to "icons"
-
-## Things to install
-
-```bash
-sudo apt install i3-wm
-sudo apt install i3-status
-sudo apt install i3-block
-sudo apt-get -y install polybar
-sudo apt install dmenu j4-dmenu-desktop
-sudo apt install neofetch
-
-python3 -m pip install --user pipx
-python3 -m pipx ensurepath
-```
