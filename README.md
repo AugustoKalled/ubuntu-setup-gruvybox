@@ -32,7 +32,7 @@ go to tweaks -> appearance and set gruvybox-Dark-BL to "applications" and gruvyb
 ## Things to install
 
 ```bash
-sudo apt install i3-wm i3 i3lock
+sudo apt install i3-wm i3-gaps
 sudo apt install compton
 sudo apt install curl
 sudo apt install virtualenv
