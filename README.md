@@ -18,8 +18,6 @@ sudo add-apt-repository universe
 # install gnome tweaks
 sudo apt install gnome-tweak-tool
 # start gnome tweaks
-gnome-tweaks
-# Copy .themes and .icons and paste in your home
 ```
 
 
