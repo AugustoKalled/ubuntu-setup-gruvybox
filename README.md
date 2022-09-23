@@ -1,7 +1,9 @@
 # ubuntu-setup-with-gruvybox
 This is my Ubuntu 22.04 setup basic iwith gruvybox
 
-![screenshot](screenshots/dirty.png)
+![alt text](https://github.com/AugustoKalled/ubuntu-setup-gruvybox/blob/main/Screenshot%20from%202022-09-22%2023-04-01.png)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 # dotfiles
 
