@@ -1,5 +1,5 @@
 # ubuntu-setup-with-I3
-This is my Ubuntu 22.04 setup with i3-gaps and guvbox
+This is my Ubuntu 22.04 setup with i3-wm and guvbox
 
 ![screenshot](screenshots/dirty.png)
 
@@ -7,7 +7,7 @@ This is my Ubuntu 22.04 setup with i3-gaps and guvbox
 
 A collection of my configuration and other dotfiles.
 
-* Ubuntu 22.04 minimal + i3-gaps
+* Ubuntu 22.04 minimal + i3-wm
 
 ## Start theme configurate
 
@@ -32,18 +32,12 @@ go to tweaks -> appearance and set gruvybox-Dark-BL to "applications" and gruvyb
 ## Things to install
 
 ```bash
-sudo apt install i3-wm i3-gaps
-sudo apt install compton
-sudo apt install curl
-sudo apt install virtualenv
-sudo apt install yarn npm
-sudo npm install -g n
-sudo n lts
+sudo apt install i3-wm
+sudo apt install i3-status
+sudo apt install i3-block
+sudo apt-get -y install polybar
 sudo apt install dmenu j4-dmenu-desktop
 sudo apt install neofetch
-sudo apt install mosh
-sudo apt install chromium-browser
-sudo apt install ukuu
 
 python3 -m pip install --user pipx
 python3 -m pipx ensurepath
