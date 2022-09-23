@@ -19,7 +19,15 @@ sudo apt install gnome-tweak-tool
 gnome-tweaks
 # Copy .themes and .icons and paste in your home
 ```
-go to appearance and set gruvybox-Dark-BL to "applications" and gruvybox to "icons"
+
+
+#Create a folder ".themes" in your home and extract this file there
+[Gruvbox GTK Theme](https://www.gnome-look.org/p/1681313)
+
+#Create a folder ".icons" in your home and extract this file there
+[Gruvbox icon theme](https://www.gnome-look.org/p/1327720/)
+
+#go to tweaks -> appearance and set gruvybox-Dark-BL to "applications" and gruvybox to "icons"
 
 ## Things to install
 
